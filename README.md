@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fannr&label=Profile%20views&color=0e75b6&style=flat" alt="fannr" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fannr" alt="fannr" /></a> </p>
-
 - 🌱 I’m currently learning **HTML, CSS, Javascript**
 
 - 👨‍💻 All of my projects are available at [https://noerra-personal-portfolio.netlify.app/](https://noerra-personal-portfolio.netlify.app/)
